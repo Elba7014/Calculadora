@@ -140,7 +140,6 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="180dp"
         android:layout_marginTop="145dp"
-        android:entries="@array/operaciones"
-        android:textColor="#FFFFFF" />
+        android:entries="@array/operaciones" />
 
 </RelativeLayout>
